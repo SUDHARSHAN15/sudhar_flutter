@@ -32,11 +32,11 @@ class _MyAppState extends State<MyApp> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
                   Text(
-                    "BMI",
+                    "BOBY MASS INDEX",
                     style: TextStyle(
                         color: Colors.white,
                         fontWeight: FontWeight.bold,
-                        fontSize: 60.0),
+                        fontSize: 35.0),
                   ),
                   Text(
                     "Calculator",
